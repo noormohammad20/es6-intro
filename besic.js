@@ -56,8 +56,8 @@ const bottle = {
     color: 'yellow',
     contain: 'water',
     price: 50,
-
 }
+
 
 
 
